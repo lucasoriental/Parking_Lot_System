@@ -25,6 +25,14 @@ I pretend to use React/js, Node.Js, Express.Js, TensorFlow.Js, PostgreSQL to mak
 <li style="font-style: italic">Endpoints created today: <code>/getAllCars</code>, <code>/createTableDimCars</code>, <code>/createTableFactCar</code>.</li>
 </ol>
 
+**Aditional Notes**
+<ul>
+ <li>I worked in the project using my laptop (Linux Ubuntu system);</li>
+ <li>The way I structured the project, reflects exaclty how big projects is, everything organized with a clear separation</li>
+ <li>I learned and memorized a lot of thing about Node and SQL! It was a really good "HomeWork";</li>
+ <li>Thecnologies/Knowledge used: <code>Node JS</code>, <code>JavaScript</code>, <code>Express (Routes)</code>, <code>pg ("postgres driver")</code>, <code>SQL</code>, <code>Software Architecture MVC/MSC</code></li>
+</ul>
+
 
 
 `This Update: 15/may/2025 05:02pm (Lisbon Time)`
