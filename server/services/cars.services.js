@@ -7,7 +7,10 @@ export async function getAllCarsService() {
     return result;
   } catch (err) {
     console.error("getAllCarsService\n");
-    console.error("Something went wrong while fetching all the car data.\n Error: ", err)
+    console.error(
+      "Something went wrong while fetching all the car data.\n Error: ",
+      err
+    );
     throw err;
   }
 }

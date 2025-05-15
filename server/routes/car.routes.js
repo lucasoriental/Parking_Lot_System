@@ -1,4 +1,4 @@
-import { Router } from "express"
+import { Router } from "express";
 import { getAllCarsController } from "../controllers/cars.controllers.js";
 
 const router = Router();
